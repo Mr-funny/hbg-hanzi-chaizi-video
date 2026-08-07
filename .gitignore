@@ -1,0 +1,10 @@
+node_modules/
+renders/
+.DS_Store
+
+# Generated Edge TTS audio and timing artifacts
+public/audio-lan-yunjian/*
+!public/audio-lan-yunjian/.gitkeep
+
+# Supply your own licensed background track under this filename.
+public/audio-lan-yunjian/background.mp3

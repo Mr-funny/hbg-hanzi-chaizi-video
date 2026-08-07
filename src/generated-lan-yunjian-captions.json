@@ -1,0 +1,30 @@
+[
+  {
+    "text": "懒，是心里住进了一个“赖”",
+    "startMs": 0,
+    "endMs": 3547,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "凡事都想等一等、靠一靠",
+    "startMs": 3547,
+    "endMs": 6344,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "时间久了",
+    "startMs": 6344,
+    "endMs": 7609,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "行动也就慢了下来",
+    "startMs": 7609,
+    "endMs": 10464,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

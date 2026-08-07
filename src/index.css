@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: #8c5937;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+}

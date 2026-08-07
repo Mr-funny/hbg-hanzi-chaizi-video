@@ -1,0 +1,40 @@
+{
+  "backend": "edge-tts",
+  "voice": "zh-CN-YunjianNeural",
+  "rate": "-20%",
+  "pitch": "default",
+  "volume": "default",
+  "audioFile": "audio-lan-yunjian/narration.wav",
+  "audioDuration": 10.464,
+  "videoDuration": 10.464,
+  "segments": [
+    {
+      "index": 0,
+      "text": "懒，是心里住进了一个“赖”",
+      "duration": 3.547,
+      "startMs": 0,
+      "endMs": 3547
+    },
+    {
+      "index": 1,
+      "text": "凡事都想等一等、靠一靠",
+      "duration": 2.797,
+      "startMs": 3547,
+      "endMs": 6344
+    },
+    {
+      "index": 2,
+      "text": "时间久了",
+      "duration": 1.265,
+      "startMs": 6344,
+      "endMs": 7609
+    },
+    {
+      "index": 3,
+      "text": "行动也就慢了下来",
+      "duration": 2.855,
+      "startMs": 7609,
+      "endMs": 10464
+    }
+  ]
+}

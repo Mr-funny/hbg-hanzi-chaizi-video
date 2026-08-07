@@ -1,0 +1,33 @@
+{
+  "name": "hbg-hanzi-chaizi-video",
+  "version": "1.0.0",
+  "description": "A vertical Remotion video that writes and playfully decomposes the Chinese character 懒.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "tts": "python3 scripts/generate_lan_yunjian_edge_tts.py",
+    "render": "remotion render LanYunjianTransform renders/lan-chaizi.mp4 --codec=h264",
+    "lint": "eslint src && tsc"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.506",
+    "@remotion/cli": "4.0.506",
+    "@remotion/media": "4.0.506",
+    "hanzi-writer-data": "^2.0.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.506"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.506",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}
