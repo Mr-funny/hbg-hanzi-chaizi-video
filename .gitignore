@@ -8,3 +8,8 @@ public/audio-lan-yunjian/*
 
 # Supply your own licensed background track under this filename.
 public/audio-lan-yunjian/background.mp3
+
+# Local source material used to prepare public documentation images
+docs/imgs/cover-source.png
+docs/imgs/outline.md
+docs/imgs/prompts/
